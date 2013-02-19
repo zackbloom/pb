@@ -7,8 +7,8 @@ argv = require('optimist')
   .demand(1)
   .argv
 
-EDITOR = process.env.LS_OR_EDIT_EDITOR ? process.env.EDITOR ? '/usr/bin/vim'
-LS = process.env.LS_OR_EDIT_LS ? '/bin/ls -G'
+EDITOR = process.env.LEADIT_EDITOR ? process.env.EDITOR ? '/usr/bin/vim'
+LS = process.env.LEADIT_LS ? '/bin/ls -G'
 
 path = argv._[0].toString()
 

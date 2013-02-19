@@ -1,0 +1,25 @@
+{
+  "name": "leadit",
+  "version": "0.1.0",
+  "description": "If it's a file, edit it, if it's a directory, list it.",
+  "scripts": {
+    "test": "./leadit.js ."
+  },
+  "bin": "./leadit.js",
+  "repository": {
+    "type": "git",
+    "url": "t"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "util",
+    "tool"
+  ],
+  "author": "Zack Bloom <zbloom@hubspot.com>",
+  "license": "BSD",
+  "dependencies": {
+    "coffee-script": "~1.4.0",
+    "optimist": "~0.3.5"
+  }
+}

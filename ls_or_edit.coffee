@@ -3,7 +3,7 @@
 fs = require('fs')
 spawn = require('child_process').spawn
 argv = require('optimist')
-  .usage("#{ process.argv[0] } <file or directory name>")
+  .usage("pb <file or directory name>")
   .demand(1)
   .argv
 

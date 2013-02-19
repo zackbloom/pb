@@ -1,6 +1,6 @@
 {
   "name": "pb",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "If it's a file, edit it, if it's a directory, list it.",
   "preferGlobal": true,
   "scripts": {

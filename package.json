@@ -8,7 +8,7 @@
   "bin": "./leadit.js",
   "repository": {
     "type": "git",
-    "url": "t"
+    "url": "git@github.com:HubSpot/leadit.git"
   },
   "keywords": [
     "cli",

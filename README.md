@@ -15,4 +15,3 @@ Leadit looks first at `LEADIT_EDITOR`, then `EDITOR` environment variables for t
 
 You must use full paths, and can include any applicable command line flags.  Paths with 
 spaces will not work properly.
-

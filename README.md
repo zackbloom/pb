@@ -1,9 +1,9 @@
-Leadit
-------
+pb
+=============
+
+`pb ~`
 
 Give it a path, if it's a file it will open it in your editor, if it's a directory it will list it.
-
-You might want to give it a convenient alias.
 
 Configuration
 -------------

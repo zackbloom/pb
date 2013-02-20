@@ -8,6 +8,13 @@ Give it a path, if it's a file it will open it in your editor, if it's a directo
 It will automatically mkdir -p the path, and delete the directories it creates if you don't
 end up saving your file.
 
+Installation
+------------
+
+````bash
+npm install -g pb
+````
+
 Configuration
 -------------
 

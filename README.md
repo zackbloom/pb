@@ -16,5 +16,5 @@ You can configure the editor and ls application and flags using environment vari
 Leadit looks first at `PB_EDITOR`, then `EDITOR` environment variables for the editor,
 `PB_LS` for ls.
 
-You must use full paths, and can include any applicable command line flags.  Paths with 
+You must use full paths, and can include any applicable command line flags.  Commands with 
 spaces will not work properly.

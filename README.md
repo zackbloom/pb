@@ -5,6 +5,9 @@ pb
 
 Give it a path, if it's a file it will open it in your editor, if it's a directory it will list it.
 
+It will automatically mkdir -p the path, and delete the directories it creates if you don't
+end up saving your file.
+
 Configuration
 -------------
 

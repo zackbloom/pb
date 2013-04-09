@@ -1,6 +1,6 @@
 {
   "name": "pb",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "If it's a file, edit it, if it's a directory, list it.",
   "preferGlobal": true,
   "scripts": {
@@ -9,7 +9,7 @@
   "bin": "./leadit.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:HubSpot/pb.git"
+    "url": "git@github.com:zackbloom/pb.git"
   },
   "keywords": [
     "cli",
